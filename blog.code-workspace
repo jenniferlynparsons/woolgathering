@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"browser-preview.startUrl": "localhost:4000",
-		"editor.fontSize": 12,
+		"editor.fontSize": 16,
 		"editor.fontFamily": "'Source Code Pro', 'Fira Code', Consolas, 'Courier New', monospace"
 	}
 }
