@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Utility CSS.md",
+            "file": "_notes/Quiet tactile games.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Utility CSS.md",
+                "file": "_notes/Quiet tactile games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/Quiet tactile games.md",
+    "_notes/Strategic and Critical Thinking.md",
+    "_notes/Untitled.md",
     "_notes/Utility CSS.md",
     "_notes/Digital Gardens.md",
     "_notes/Developer Notebooks.md",
     "_notes/Fiction Writing Guide.md",
     "_notes/Personal Programming Canon.md",
-    "_notes/Strategic and Critical Thinking.md",
     "_notes/Unified Theory of the Web.md",
-    "tags.md",
-    "_notes/Untitled.md",
-    "notes.md"
+    "tags.md"
   ]
 }
