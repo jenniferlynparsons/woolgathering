@@ -1,9 +1,33 @@
-# Woolgathering
+# Website
 
-Welcome to my digital garden. This is a place for me to gather both complete and incomplete thoughts on any topic that catches my interest. There will likely be a lot of software development notes, but my interests are fairly wide ranging.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-You can tell how complete the note is by checking out the season. Notes "start" in autumn as I go inner and develop ideas. We "end" in summer, when things reach the height of their fruition.
+## Installation
 
-## About the site
+```console
+yarn install
+```
 
-This repo contains the notes I organize with [Obsidian](https://obsidian.md/) and publish with the [notenote](https://notenote.link/) Jekyll theme via Github and Netlify. 
+## Local Development
+
+```console
+yarn start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+## Build
+
+```console
+yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+## Deployment
+
+```console
+GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
