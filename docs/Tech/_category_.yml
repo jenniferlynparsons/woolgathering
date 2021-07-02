@@ -1,0 +1,3 @@
+label: 'Tech'
+position: 2 # float position is supported
+collapsed: true # keep the category open by default
