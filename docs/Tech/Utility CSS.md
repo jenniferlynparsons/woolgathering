@@ -1,9 +1,11 @@
 ---
 title: Utility CSS explorations
-tags: web-dev css
-toc: true
-season: winter
 ---
+:::note
+
+This is a work in progress.
+
+:::
 
 I'd like to pull together some thoughts on the various approaches to modern CSS development. A lot of what I see currently is focused on utility classes, but there are still good arguments for semantic classes.
 

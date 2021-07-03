@@ -1,15 +1,17 @@
 ---
 sidebar_position: 1
 slug: /
+sidebar_label: Introduction
 ---
 
-# Woolgathering
 
-Welcome to my digital garden. This is a place for me to gather both complete and incomplete thoughts on any topic that catches my interest. There will likely be a lot of software development notes, but my interests are fairly wide ranging.
+# Welcome to Woolgathering
 
-You can tell how complete the note is by checking out the season. Notes "start" in autumn as I go inner and develop ideas. We "end" in summer, when things reach the height of their fruition.
+Welcome to my digital garden. This is a place for me to gather both complete and incomplete thoughts on any topic that catches my interest. I've been sure to notate any document that's a work in progress.
 
-## About me
+There will likely be a lot of software development notes, but my interests are fairly wide ranging. I've broken things down by category. Most of what you'll find here are resource guides along with some context. More formal essays and articles are posted elsewhere. I also maintain a few lists of things like my current comic book and newsletter subscriptions.
+
+## A bit about me
 
 paladin. coder. writer. pagan. queer. autistic. crone. comic geek. tea snob. vegetarian.
 
@@ -19,6 +21,5 @@ I’m a kid from New Jersey, a life-long lover of books. I still build blanket f
 
 I have a presence in a lot of different places, but if you start at one of these two sites, you'll find links to follow me everywhere else:
 
--[Software Blog &amp; Resume](http://aquantityofstuff.com)
-
--[Author Site](http://jenniferlynparsons.com)
+- [Software Blog &amp; Resume](http://aquantityofstuff.com)
+- [Author Site](http://jenniferlynparsons.com)

@@ -1,9 +1,12 @@
 ---
 title: Stumbling toward a unified theory of the web
-tags: web-dev
-toc: true
-season: autumn
 ---
+
+:::note
+
+This is a work in progress.
+
+:::
 
 - [Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)
 

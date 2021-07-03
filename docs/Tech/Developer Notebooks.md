@@ -1,9 +1,12 @@
 ---
 title: Developer notebooks & journals
-tags: tools
-toc: false
-season: summer
 ---
+:::note
+
+This does not reflect my current thoughts. I have switched to Obsidian.md and will be updating accordingly.
+
+:::
+
 I'm a big fan of keeping notebooks full of useful information. Most of the time I use Bear Writer for this. But Bear is Mac only and I do a lot of personal project work on a Linux box. Bear also isn't the greatest at handling code snippets, despite using Markdown.
 I decided to look for a dedicated developer notebook application. I had a few requirements:
 

@@ -37,3 +37,33 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.season span{
+font-size: 80%;
+color: #fff;
+padding: 3px 5px;
+border-radius: 9px;
+
+}
+
+.summer span{
+  background: #ffd900;
+  color: #000;
+}
+
+.autumn span{
+  background: #db923f;
+}
+
+.winter span{
+  background: #729ea1;
+}
+
+.spring span{
+  background: #a5b164;
+}
+
+ /* <p class="season summer"><span>SUMMER</span></p>
+<p class="season winter"><span>WINTER</span></p>
+<p class="season spring"><span>SPRING</span></p>
+<p class="season autumn"><span>AUTUMN</span></p>  */

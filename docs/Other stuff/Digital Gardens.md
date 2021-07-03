@@ -23,7 +23,9 @@ I found this resource list to be helpful in figuring out what this site might lo
 
 [Digital Gardening Resources](https://github.com/MaggieAppleton/digital-gardeners)
 
-I decided to use Jekyll and the [Simply Jekyll](https://simply-jekyll.netlify.app/) theme to build the app.
+~~I decided to use Jekyll and the [Simply Jekyll](https://simply-jekyll.netlify.app/) theme to build the app.~~
+
+I have decided to use [Docusaurus](https://docusaurus.io/) to build the website.
 
 ## Notes on the process
 
@@ -64,6 +66,6 @@ So if I'm honest, cross platform is more important than mobile.
 
 Also, markdown/plain text is extremely important, alongside self-hosting. I have been burned too many times before on that stuff.
 
-Which is all leading me toward jekyll, deployed to netlify via github pull requests.
+Which is all leading me toward ~~jekyll~~ Docusaurus, deployed to netlify via github pull requests.
 
 There's a lot of durability, portability, and redundancy built into that setup, and if I want to I can access it from the phone, too.

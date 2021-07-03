@@ -3,8 +3,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'woolgathering',
-  tagline: '',
+  title: 'Woolgathering',
+  tagline: 'The digital garden of Jennifer Lyn Parsons',
   url: 'https://woolgathering.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -17,7 +17,7 @@ module.exports = {
       title: 'woolgathering',
       logo: {
         alt: 'woolgathering Logo',
-        src: 'img/logo.svg',
+        src: 'img/digital-garden.png',
       },
       items: [
         // {
@@ -96,12 +96,12 @@ module.exports = {
      
         routeBasePath: '/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/jenniferlynparsons/woolgathering/edit/master/website/blog/',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   Please change this to your repo.
+        //   editUrl:
+        //     'https://github.com/jenniferlynparsons/woolgathering/edit/master/website/blog/',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

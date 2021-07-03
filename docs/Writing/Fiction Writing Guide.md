@@ -1,9 +1,11 @@
 ---
 title: A guide to fiction writing
-tags: writing
-toc: true
-season: summer
 ---
+:::note
+
+This still needs links to the books listed.
+
+:::
 
 I thought it might be useful to gather together the books, articles, and advice I've found useful and inspiring over the course of my writing career.
 
@@ -35,13 +37,13 @@ Self-Editing for Fiction Writers by Renni Browne and Dave King
 
 Here are a few talks that I return to regularly to keep me inspired.
 
-[Ursula Le Guin's National Book Foundation acceptance speech]((https://www.youtube.com/watch?v=Et9Nf-rsALk))
+[Ursula Le Guin's National Book Foundation acceptance speech](https://www.youtube.com/watch?v=Et9Nf-rsALk)
 
-[An Evening with Ray Bradbury](https://www.youtube.com/watch?v=_W-r7ABrMYU))
+[An Evening with Ray Bradbury](https://www.youtube.com/watch?v=_W-r7ABrMYU)
 
-[Neil Gaiman's Make Good Art speech](https://www.youtube.com/watch?v=plWexCID-kA))
+[Neil Gaiman's Make Good Art speech](https://www.youtube.com/watch?v=plWexCID-kA)
 
-[Ira Glass on The Gap](https://www.youtube.com/watch?v=91FQKciKfHI))
+[Ira Glass on The Gap](https://www.youtube.com/watch?v=91FQKciKfHI)
 
 ## How I got started and a recipe you might follow
 

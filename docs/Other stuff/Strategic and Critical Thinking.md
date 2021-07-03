@@ -1,9 +1,11 @@
 ---
 title: Resources and notes on strategic and critical thinking
-tags: humantities
-toc: true
-season: winter
 ---
+:::note
+
+This is a work in progress.
+
+:::
 
 I'm gathering a few shareable notes and resources here as I work on developing modes of thinking that will help me succeed in my career and develop stronger, kinder relationships with those dear to me.
 

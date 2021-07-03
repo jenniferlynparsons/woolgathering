@@ -1,9 +1,11 @@
 ---
 title: My personal programmer's canon
-tags: tech
-toc: true
-season: winter
 ---
+:::note
+
+This is a work in progress.
+
+:::
 
 I'm putting together a list meant to encompass what I consider the canon of works that I find valuable and suggest others may as well. Many of them I haven't read myself because, to be fair, they tend to be pricey. I've got the means to acquire hard copies right now, so I'm methodically working through that process. There are, of course, other ways to _ahem_ acquire them for those that are low on funds.
 
